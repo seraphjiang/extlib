@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>jianghuan</authors>
+    <owners>jianghuan</owners>
+    <licenseUrl>https://github.com/seraphjiang/extlib</licenseUrl>
+    <projectUrl>https://github.com/seraphjiang/extlib</projectUrl>
+    <iconUrl>https://github.com/seraphjiang/extlib</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>A libary which support sort large file in external memory with merge sort!</description>
+    <releaseNotes>Init version.</releaseNotes>
+    <copyright>Copyright 2017</copyright>
+    <tags>External Memory Merge Sort</tags>
+  </metadata>
+</package>
